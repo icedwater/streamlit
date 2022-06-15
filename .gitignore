@@ -1,0 +1,8 @@
+# vim swap files
+.*.sw?
+
+# python binaries
+*.py?
+
+# virtualenv
+streamlit
